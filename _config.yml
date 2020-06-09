@@ -1,7 +1,7 @@
 title: DesignPorfolio
 email: jiachen.e.c@gmail.com
 description: Jiachen's Design Portfolio, built with Jekyll
-baseurl: /DesignPortfolio
+baseurl: /designportfolio
 
 # Build settings
 markdown: kramdown
